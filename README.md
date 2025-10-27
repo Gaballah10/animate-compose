@@ -3,7 +3,6 @@
 
 A collection of real-world animation examples built with Jetpack Compose — from bouncing entrances and infinite rotations to celestial orbits (sun & moon) and custom animated shadows.
 
-https://github.com/user/compose-orbit/assets/123456789/abc123-demo-video.mp4
 
 > 💡 Perfect for developers who want to go beyond basic fades and create **immersive, playful UIs** with Compose Animation APIs.
 
